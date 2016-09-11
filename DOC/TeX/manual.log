@@ -1,0 +1,447 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.3)  12 SEP 2016 00:42
+entering extended mode
+**manual
+(d:\GitHub\POLYE\DOC\TeX\manual.tex
+LaTeX2e <2015/10/01> patch level 2
+Babel <3.9m> and hyphenation patterns for 69 languages loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\latex209.def"
+File: latex209.def 2015/02/22 v0.53 Standard LaTeX file
+
+
+          Entering LaTeX 2.09 COMPATIBILITY MODE
+ *************************************************************
+    !!WARNING!!    !!WARNING!!    !!WARNING!!    !!WARNING!!   
+ 
+ This mode attempts to provide an emulation of the LaTeX 2.09
+ author environment so that OLD documents can be successfully
+ processed. It should NOT be used for NEW documents!
+ 
+ New documents should use Standard LaTeX conventions and start
+ with the \documentclass command.
+ 
+ Compatibility mode is UNLIKELY TO WORK with LaTeX 2.09 style
+ files that change any internal macros, especially not with
+ those that change the FONT SELECTION or OUTPUT ROUTINES.
+ 
+ Therefore such style files MUST BE UPDATED to use
+          Current Standard LaTeX: LaTeX2e.
+ If you suspect that you may be using such a style file, which
+ is probably very, very old by now, then you should attempt to
+ get it updated by sending a copy of this error message to the
+ author of that file.
+ *************************************************************
+
+\footheight=\dimen102
+\@maxsep=\dimen103
+\@dblmaxsep=\dimen104
+\@cla=\count79
+\@clb=\count80
+\mscount=\count81
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\tracefnt.sty"
+Package: tracefnt 2015/02/21 v3.0k Standard LaTeX package (font tracing)
+\tracingfonts=\count82
+LaTeX Info: Redefining \selectfont on input line 106.
+)
+\symbold=\mathgroup4
+\symsans=\mathgroup5
+\symtypewriter=\mathgroup6
+\symitalic=\mathgroup7
+\symsmallcaps=\mathgroup8
+\symslanted=\mathgroup9
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 298.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 299.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 300.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 306.
+LaTeX Info: Redefining \em on input line 316.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\latexsym.sty"
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup10
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+LaTeX Font Info:    Redeclaring math delimiter \lgroup on input line 377.
+LaTeX Font Info:    Redeclaring math delimiter \rgroup on input line 379.
+LaTeX Font Info:    Redeclaring math delimiter \bracevert on input line 381.
+)
+(d:\GitHub\POLYE\DOC\TeX\tcibook.cls (d:\GitHub\POLYE\DOC\TeX\tcibook.sty
+TCI Software Research `tcibook' <1 July 1994>.
+NOTICE: This macro file is NOT proprietary and may be freely copied and distrib
+uted.
+(d:\GitHub\POLYE\DOC\TeX\tcilcomm.tex
+TCILCOMM Macros for TCI styles <16 Dec 93>.
+NOTICE: This macro file is NOT proprietary and may be freely copied and distrib
+uted.
+\@temptokenb=\toks14
+\raggedglue=\skip41
+\trimwidth=\dimen105
+\trimheight=\dimen106
+\botmargin=\dimen107
+\marginpartotal=\dimen108
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\book.sty"
+Compatibility mode: inputting `book.cls' instead of obsolete `book.sty'.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\book.cls"
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\bk12.clo"
+File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count83
+\c@chapter=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\c@figure=\count90
+\c@table=\count91
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+Compatibility mode: definition of \rm ignored.
+Compatibility mode: definition of \sf ignored.
+Compatibility mode: definition of \tt ignored.
+Compatibility mode: definition of \bf ignored.
+Compatibility mode: definition of \it ignored.
+Compatibility mode: definition of \sl ignored.
+Compatibility mode: definition of \sc ignored.
+LaTeX Info: Redefining \cal on input line 597.
+LaTeX Info: Redefining \mit on input line 598.
+\bibindent=\dimen109
+))
+TCI Document Style `tcibook' <1 July 1994>.
+\sectionruledimen=\dimen110
+\sectionbackskip=\dimen111
+)) (d:\GitHub\POLYE\DOC\TeX\tcilatex.tex
+TCILATEX Macros for Scientific Word 2.0 <12 Jan 95>.
+NOTICE: This macro file is NOT proprietary and may be freely copied and distrib
+uted.
+\@hour=\count92
+\@minute=\count93
+\GRAPHICSTYPE=\count94
+\draft=\count95
+\dispkind=\count96
+\theight=\dimen112
+Compatibility mode: definition of \rm ignored.
+Compatibility mode: definition of \sf ignored.
+Compatibility mode: definition of \tt ignored.
+Compatibility mode: definition of \bf ignored.
+Compatibility mode: definition of \it ignored.
+Compatibility mode: definition of \sl ignored.
+Compatibility mode: definition of \sc ignored.
+\c@theorem=\count97
+\c@axiom=\count98
+\c@remark=\count99
+\c@example=\count100
+\c@exercise=\count101
+\c@definition=\count102
+\c@equationnumber=\count103
+\intno@=\count104
+\ex@=\dimen113
+) (d:\GitHub\POLYE\DOC\TeX\manual.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 14.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 14.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+) [0
+
+{C:/Users/ole/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(d:\GitHub\POLYE\DOC\TeX\manual.toc
+Overfull \hbox (11.39795pt too wide) in paragraph at lines 1--1
+  [] \OT1/cmr/bx/n/12 PROB-LEM - ORI-ENTED LAN-GUAGE FOR DE-SCRIP- 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+
+Overfull \hbox (28.88684pt too wide) in paragraph at lines 9--9
+ [] [] \OT1/cmr/bx/n/12 PORTABLE SOFT-WARE FOR SIM-U-LA-TION OF FIELDS []  
+ []
+
+)
+\tf@toc=\write3
+ [1
+
+] [2
+
+] (d:\GitHub\POLYE\DOC\TeX\manual.lot)
+\tf@lot=\write4
+ [3] [4
+
+]
+Chapter 1.
+
+Overfull \hbox (29.55374pt too wide) in paragraph at lines 18--18
+[]\OT1/cmr/bx/n/24.88 PROBLEM - ORI-ENTED LAN- 
+ []
+
+
+Overfull \hbox (12.85182pt too wide) in paragraph at lines 18--18
+\OT1/cmr/bx/n/24.88 GUAGE FOR DE-SCRIP-TION 
+ []
+
+
+Overfull \hbox (47.0619pt too wide) in paragraph at lines 18--18
+\OT1/cmr/bx/n/24.88 OF BOUND-ARY VALUE PROB- 
+ []
+
+[5]
+Overfull \hbox (249.26729pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 6 \OT1/cmr/m/sl/12 CHAPTER 1.   PROBLEM - ORIENTED LANGUAGE FOR
+ DESCRIPTION OF BOUNDARY VALUE PROBLEMS
+ []
+
+[6] [7]
+Overfull \hbox (249.26729pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 8 \OT1/cmr/m/sl/12 CHAPTER 1.   PROBLEM - ORIENTED LANGUAGE FOR
+ DESCRIPTION OF BOUNDARY VALUE PROBLEMS
+ []
+
+[8]
+Overfull \hbox (50.01816pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/12 1.2.  COMPONENTS AND BASIC CONSTRUCTIONS OF THE LANGUAGE \OT1/
+cmr/m/n/12 9
+ []
+
+[9]
+Overfull \hbox (255.14223pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 10 \OT1/cmr/m/sl/12 CHAPTER 1.   PROBLEM - ORIENTED LANGUAGE FO
+R DESCRIPTION OF BOUNDARY VALUE PROBLEMS
+ []
+
+[10]
+Overfull \hbox (98.98982pt too wide) in paragraph at lines 248--252
+\OT1/cmr/m/n/12 tributes. It is used for de-scrib-ing ge-o-met-ric and an-a-lyt
+ic ob-jects ($\OML/cmm/m/it/12 LINE;  CIRCLE;  POL\OT1/cmr/m/n/12 1$
+ []
+
+
+Overfull \hbox (324.98701pt too wide) in paragraph at lines 301--309
+\OT1/cmr/m/n/12 into sec-tions and groups, be-ing the fol-low-ing ones: $\OML/c
+mm/m/it/12 DECLARE$\OT1/cmr/m/n/12 ,$ \OML/cmm/m/it/12 OMEGA$\OT1/cmr/m/n/12 ,$
+ \OML/cmm/m/it/12 FUNCTION$\OT1/cmr/m/n/12 ,$ \OML/cmm/m/it/12 PROGRAM$\OT1/cmr
+/m/n/12 ,$ \OML/cmm/m/it/12 FORTRAN$\OT1/cmr/m/n/12 ,$ \OML/cmm/m/it/12 VALUE$\
+OT1/cmr/m/n/12 ,$ \OML/cmm/m/it/12 END$\OT1/cmr/m/n/12 .
+ []
+
+[11]
+Overfull \hbox (255.14223pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 12 \OT1/cmr/m/sl/12 CHAPTER 1.   PROBLEM - ORIENTED LANGUAGE FO
+R DESCRIPTION OF BOUNDARY VALUE PROBLEMS
+ []
+
+[12] [13]
+
+LaTeX Warning: Float too large for page by 89.26596pt on input line 401.
+
+
+Overfull \hbox (255.14223pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 14 \OT1/cmr/m/sl/12 CHAPTER 1.   PROBLEM - ORIENTED LANGUAGE FO
+R DESCRIPTION OF BOUNDARY VALUE PROBLEMS
+ []
+
+[14] [15]
+Overfull \hbox (255.14223pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 16 \OT1/cmr/m/sl/12 CHAPTER 1.   PROBLEM - ORIENTED LANGUAGE FO
+R DESCRIPTION OF BOUNDARY VALUE PROBLEMS
+ []
+
+[16]
+Overfull \hbox (30.76813pt too wide) in paragraph at lines 492--493
+[]$\OML/cmm/m/it/12 TABL \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 N\OT1/cmr/m/n/12 1\
+OML/cmm/m/it/12 ; P\OT1/cmr/m/n/12 1\OML/cmm/m/it/12 ; N\OT1/cmr/m/n/12 2\OML/c
+mm/m/it/12 ; P\OT1/cmr/m/n/12 2\OML/cmm/m/it/12 ; :::; NK; PK; SM\OT1/cmr/m/n/1
+2 1\OML/cmm/m/it/12 ; Q\OT1/cmr/m/n/12 1\OML/cmm/m/it/12 ; SM\OT1/cmr/m/n/12 2\
+OML/cmm/m/it/12 ; Q\OT1/cmr/m/n/12 2\OML/cmm/m/it/12 ; :::; SML; QL\OT1/cmr/m/n
+/12 ;$ 
+ []
+
+
+Overfull \hbox (33.91142pt too wide) in paragraph at lines 511--512
+[]$\OML/cmm/m/it/12 QI$ \OT1/cmr/m/n/12 is four num-ber for de-scrib-ing the ma
+-tri-ces: $\OML/cmm/m/it/12 NP\OT1/cmr/m/n/12 1\OML/cmm/m/it/12 I; KP\OT1/cmr/m
+/n/12 1\OML/cmm/m/it/12 I; NP\OT1/cmr/m/n/12 2\OML/cmm/m/it/12 I; KP\OT1/cmr/m/
+n/12 2\OML/cmm/m/it/12 I$
+ []
+
+
+Overfull \hbox (47.9437pt too wide) in paragraph at lines 562--562
+ [] 
+ []
+
+
+Overfull \hbox (46.4812pt too wide) in paragraph at lines 578--578
+ [] 
+ []
+
+
+Overfull \hbox (65.00851pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/12 1.5.  USING THE SYSTEM FOR SOLVING A BOUNDARY VALUE PROBLEM \O
+T1/cmr/m/n/12 17
+ []
+
+[17]
+Overfull \hbox (255.14223pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 18 \OT1/cmr/m/sl/12 CHAPTER 1.   PROBLEM - ORIENTED LANGUAGE FO
+R DESCRIPTION OF BOUNDARY VALUE PROBLEMS
+ []
+
+[18]
+Overfull \hbox (65.00851pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/12 1.5.  USING THE SYSTEM FOR SOLVING A BOUNDARY VALUE PROBLEM \O
+T1/cmr/m/n/12 19
+ []
+
+[19]
+Overfull \hbox (255.14223pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 20 \OT1/cmr/m/sl/12 CHAPTER 1.   PROBLEM - ORIENTED LANGUAGE FO
+R DESCRIPTION OF BOUNDARY VALUE PROBLEMS
+ []
+
+[20]
+Overfull \hbox (65.00851pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/12 1.5.  USING THE SYSTEM FOR SOLVING A BOUNDARY VALUE PROBLEM \O
+T1/cmr/m/n/12 21
+ []
+
+[21]
+Overfull \hbox (255.14223pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 22 \OT1/cmr/m/sl/12 CHAPTER 1.   PROBLEM - ORIENTED LANGUAGE FO
+R DESCRIPTION OF BOUNDARY VALUE PROBLEMS
+ []
+
+[22]
+Overfull \hbox (65.00851pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/12 1.5.  USING THE SYSTEM FOR SOLVING A BOUNDARY VALUE PROBLEM \O
+T1/cmr/m/n/12 23
+ []
+
+[23]
+Overfull \hbox (255.14223pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 24 \OT1/cmr/m/sl/12 CHAPTER 1.   PROBLEM - ORIENTED LANGUAGE FO
+R DESCRIPTION OF BOUNDARY VALUE PROBLEMS
+ []
+
+[24
+
+]
+Chapter 2.
+
+Overfull \hbox (21.66342pt too wide) in paragraph at lines 771--771
+[]\OT1/cmr/bx/n/24.88 PORTABLE SOFT-WARE FOR 
+ []
+
+[25]
+Overfull \hbox (40.28026pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 26 \OT1/cmr/m/sl/12 CHAPTER 2.   PORTABLE SOFTWARE FOR SIMULATI
+ON OF FIELDS
+ []
+
+[26] [27]
+Overfull \hbox (1.77754pt too wide) in paragraph at lines 881--887
+[]\OT1/cmr/m/n/12 when de-liv-er-ing lec-tures in the the-ory of $\OML/cmm/m/it
+/12 R$\OT1/cmr/m/n/12 -functions and the POLYE
+ []
+
+
+Overfull \hbox (40.28026pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 28 \OT1/cmr/m/sl/12 CHAPTER 2.   PORTABLE SOFTWARE FOR SIMULATI
+ON OF FIELDS
+ []
+
+[28] [29]
+Overfull \hbox (40.28026pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 30 \OT1/cmr/m/sl/12 CHAPTER 2.   PORTABLE SOFTWARE FOR SIMULATI
+ON OF FIELDS
+ []
+
+[30] [31]
+Overfull \hbox (14.99057pt too wide) in paragraph at lines 1061--1067
+\OT1/cmr/m/n/12 trans-la-tion, the pro-ces-sor is re-al-ized in the high-level 
+lan-guage FORTRAN-
+ []
+
+
+Overfull \hbox (40.28026pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 32 \OT1/cmr/m/sl/12 CHAPTER 2.   PORTABLE SOFTWARE FOR SIMULATI
+ON OF FIELDS
+ []
+
+[32] [33]
+Overfull \hbox (10.23924pt too wide) in paragraph at lines 1153--1155
+[]\OT1/cmr/m/n/12 creation of dif-fer-en-tial corteges - ge-o-met-ric ob-jects 
+($\OML/cmm/m/it/12 LINE$\OT1/cmr/m/n/12 , $\OML/cmm/m/it/12 CIRCLE$\OT1/cmr/m/n
+/12 ,
+ []
+
+
+Overfull \hbox (4.79286pt too wide) in paragraph at lines 1156--1158
+\OT1/cmr/m/n/12 ($\OML/cmm/m/it/12 THEB$\OT1/cmr/m/n/12 , $\OML/cmm/m/it/12 LEG
+AN$\OT1/cmr/m/n/12 , $\OML/cmm/m/it/12 GARMON$\OT1/cmr/m/n/12 ) and se-quence o
+f fi-nite func-tions ($\OML/cmm/m/it/12 SPLI$\OT1/cmr/m/n/12 ,
+ []
+
+
+Overfull \hbox (37.3513pt too wide) in paragraph at lines 1162--1164
+[]\OT1/cmr/m/n/12 cortege op-er-a-tions for el-e-men-tary func-tions ($\OML/cmm
+/m/it/12 ROOT$\OT1/cmr/m/n/12 , $\OML/cmm/m/it/12 DERLN$\OT1/cmr/m/n/12 , $\OML
+/cmm/m/it/12 DEREXP$\OT1/cmr/m/n/12 ,
+ []
+
+
+Overfull \hbox (40.28026pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 34 \OT1/cmr/m/sl/12 CHAPTER 2.   PORTABLE SOFTWARE FOR SIMULATI
+ON OF FIELDS
+ []
+
+[34] [35]
+Overfull \hbox (40.28026pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 36 \OT1/cmr/m/sl/12 CHAPTER 2.   PORTABLE SOFTWARE FOR SIMULATI
+ON OF FIELDS
+ []
+
+[36] [37] (d:\GitHub\POLYE\DOC\TeX\manual.aux) ) 
+Here is how much of TeX's memory you used:
+ 861 strings out of 493643
+ 9408 string characters out of 3141491
+ 76799 words of memory out of 3000000
+ 4263 multiletter control sequences out of 15000+200000
+ 20127 words of font info for 73 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 33i,8n,22p,164b,204s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files (x86)/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmsl12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmss12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb>
+Output written on manual.pdf (38 pages, 212386 bytes).
+PDF statistics:
+ 166 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

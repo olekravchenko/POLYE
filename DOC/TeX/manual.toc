@@ -1,0 +1,13 @@
+\contentsline {chapter}{\numberline {1} PROBLEM - ORIENTED LANGUAGE FOR DESCRIPTION OF BOUNDARY VALUE\ PROBLEMS}{5}
+\contentsline {section}{\numberline {1.1} General characteristic of the RL language}{5}
+\contentsline {section}{\numberline {1.2}Components and basic constructions of the language}{8}
+\contentsline {section}{\numberline {1.3} Language operators}{11}
+\contentsline {section}{\numberline {1.4} Description of the values of variables (section of values)}{16}
+\contentsline {section}{\numberline {1.5}Using the system for solving a boundary value problem}{17}
+\contentsline {subsection}{\numberline {1.5.1} Program text in the RL language}{20}
+\contentsline {subsection}{\numberline {1.5.2}Commentary to operators}{20}
+\contentsline {chapter}{\numberline {2} PORTABLE SOFTWARE FOR SIMULATION OF FIELDS}{25}
+\contentsline {section}{\numberline {2.1}General characteristics of the POLYE system}{25}
+\contentsline {section}{\numberline {2.2} System architecture}{28}
+\contentsline {section}{\numberline {2.3}Processor for the RL language}{31}
+\contentsline {section}{\numberline {2.4} DIFOR software package}{33}
