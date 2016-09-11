@@ -1,0 +1,84 @@
+ DECLARE
+   CIRCL NOSIK;
+   MCIRCL KL1,KL2;
+   MCIRCL KRITO;
+   POL2 SPINA;
+   LINE L1;
+   POL0 LAM;
+   POL1 AL;
+   SF P;
+ OMEGA              > “PABHEHˆE O‹ACTˆ;
+   WS = SPINA;
+   W1 = KRITO & WS & (NOSIK ! L1) & Y ;
+   W2 = KL1   & KL2 ;
+   W  = W1    & W2 ;
+   LOPA = W ;
+ FUNCTION
+   OM=LOPA;
+   R=W1+W2;
+   H=(W1*700+W2*AL)/(LAM*R*1000);
+   FI=H*(W1*850+W2*1300)/R;
+   U1=P;
+ FUNCTION
+   U=SUM(1, 0,U1);
+ PROGRAM
+   INT(S1,FA);          TIME;
+   GIC(S2,FA1,FB1);     TIME;
+   PREDI(WS);
+   KONTUR(S3,FA1,FB1);  TIME;
+   PREDI(W);
+   GIC(S4,FA1,FB1);
+   GIC(S5,FA1,FB1);
+   GIL(S6,FA1,FB1);     TIME;
+   >MATR; 
+   SIS(AA,BB);
+   KOEF;     ATS; 
+   TAB(S10,FU);         TIME; 
+   RESULT(S20,FU);
+   FA (U1) =      U1(I,2) * U1(J,2)+U1(I,3)*U1(J,3);
+   FA1(U1) =  H * U1(I  ) * U1(J);
+   FB1(U1) = FI*U1(I);
+   AA      = AI(1);
+   BB      = BI(1);
+   FU(U)   = U;
+VALUE
+   CONST=   1,1,2,2,35,1,1;
+   TABL =   M,1,1,1,1, 0,1,1,0,0;
+   KRITO=   C,D,R1;
+   SPINA=  B0,B1,-1,B2,0,0;
+   NOSIK=   0,B,RM1;
+   L1   =  X3,“3, X4,“4;
+   P    =   1,PR;
+   C    =  15.5142;
+   D    = -40.1889;
+   R1   =  67.3514;
+   B    =  27.015;
+   RM1  =   1.62;
+   B0   =  29.638418;
+   B1   =   1.2480253;
+   B2   =  -0.0228603;
+   X3   =  -1.29;
+   X4   =   0.3644;
+   “3   =  27.994949;
+   “4   =  25.436515;
+   XM   =  75;
+   “M   =  50;
+   AL   =1500,-10,0;
+   LAM  =  40;
+   KL1  =  27,36,R3;
+   KL2  =  10,33,R4;
+   R3   =   7;
+   R4   =   3;
+   S1   =  15,10,PR;
+   PR   =-RM1,0,XM,“M;
+   S2   =   1,KL1,0,180,KL1,180,360, KL2,0,180,KL2,180,360;
+   S3   =   1,X3,0,80,0,90;
+   S4   =   1,NOSIK,142.778,282.9992;
+   S5   =   1,KRITO,36.6336,102.998;
+   S6   =   1,69.56106,0,72.51311,0;
+   S10  =  21,7, PR;
+   S20  =  50, -RM1, 5, XM, 48;
+   S30  =  1,1170,50,50, 2,1190,50,43,
+           3,1220,50,36, 4,1250,50,29, 5,1280,50,22;
+   M    =   4;
+END

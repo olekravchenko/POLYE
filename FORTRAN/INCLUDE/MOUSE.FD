@@ -1,0 +1,10 @@
+       integer*2 $NOTMOVED,$RIGHT,$LEFT,$UP,$DOWN
+       integer*2 rightb[extern],leftb[extern],centerb[extern]
+       external cmousel,mousereset,mousemotion,setmposition
+     * ,getmposition,cursoron,cursoroff,waiton,waitoff
+       PARAMETER  ($NOTMOVED= 0)
+       PARAMETER  ($RIGHT=    1)
+       PARAMETER  ($LEFT=     2)
+       PARAMETER  ($UP=       3)
+       PARAMETER  ($DOWN=     4)
+

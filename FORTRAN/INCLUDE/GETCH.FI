@@ -1,0 +1,3 @@
+      interface to function getch[c]
+      integer*2 getch
+      end

@@ -1,0 +1,45 @@
+       interface to subroutine cmousel[FAR,C](nfun,a2,a3,a4)
+       integer*2 nfun[FAR,REFERENCE],a2[FAR,REFERENce],
+     * a3[FAR,REFERENCE],a4[FAR,REFERENCE]
+       end
+
+       interface to subroutine mousereset[FAR,C,ALIAS:"_mouse_reset"]()
+       end
+
+       interface to integer*2 function rightb[FAR,C]()
+       end
+
+       interface to integer*2 function leftb[FAR,C]()
+       end
+
+       interface to integer*2 function centerb[FAR,C]()
+       end
+
+       interface to subroutine mousemotion[FAR,C,ALIAS:"_mouse_motion"]
+     * (dx,dy)
+       integer*1 dx[FAR,REFERENCE],dy[FAR,REFERENCE]
+       end
+
+       interface to subroutine setmposition[FAR,C](x,y)
+       integer*2 x,y
+       end
+
+       interface to subroutine getmposition[FAR,C](x,y)
+       integer*2 x[FAR,REFERENCE],y[FAR,REFERENCE]
+       end
+
+       interface to subroutine cursoron[FAR,C,ALIAS:"_cursor_on"]()
+       end
+
+       interface to subroutine cursoroff[FAR,C,ALIAS:"_cursor_off"]()
+       end
+
+       interface to subroutine waiton[FAR,C,ALIAS:"_wait_on"](button)
+       integer*2 button
+       end
+
+       interface to subroutine waitoff[FAR,C,ALIAS:"_wait_off"](button)
+       integer*2 button
+       end
+
+

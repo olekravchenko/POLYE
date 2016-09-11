@@ -1,0 +1,4 @@
+AIDSTEST for drive C:
+  aidstest c:  /s /g
+AIDSTEST for drive A:
+  aidstest a:  /s /g

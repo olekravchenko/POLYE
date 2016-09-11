@@ -1,0 +1,1 @@
+ path=C:\POLYE\FORTRAN\BINB;C:\POLYE;

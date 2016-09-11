@@ -1,0 +1,13 @@
+DECLARE
+   CIRCL F3; LINE F2;
+OMEGA
+   W=F1&F2;
+PROGRAM
+   RESULT(R1,F3);
+   FW(W)=W;
+VALUE
+   CONST=1,1,1,1,10,1,1;
+   TABL=1,1,1,1,1, 0,1,1,0,0;
+   F1=0,0,1;  F5=0,0,1,1;
+   R1=50, -1,-1,1,1;
+END
